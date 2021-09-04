@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/summer_note/lang" />
+      <path value="$PROJECT_DIR$/vendor/summer_note/font" />
+      <path value="$PROJECT_DIR$/vendor/mustangostang/spyc" />
+      <path value="$PROJECT_DIR$/vendor/slick/fonts" />
+      <path value="$PROJECT_DIR$/vendor/bootstrap/css" />
+      <path value="$PROJECT_DIR$/vendor/bootstrap/js" />
+      <path value="$PROJECT_DIR$/vendor/image_hover/css" />
+      <path value="$PROJECT_DIR$/vendor/feather-icons-web/fonts" />
+      <path value="$PROJECT_DIR$/vendor/matomo/device-detector" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/way_point/shortcuts" />
+    </include_path>
+  </component>
+</project>

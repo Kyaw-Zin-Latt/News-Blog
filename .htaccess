@@ -1,0 +1,2 @@
+RewriteRule ^index$ index.php [L]
+RewriteRule ^fdetail$ fdetail.php [L]
